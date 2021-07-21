@@ -16,10 +16,7 @@ Features:
 
 Usage
 -----
-Java 8 or later is recommended to run  Notes-password-Manager. Most platforms have a mechanism to execute `.jar` files (e.g. double click the `jpass-0.1.24-RELEASE.jar`).
-You can also run the application from the command line by typing (the password file is optional):
-
-    java -jar jpass-0.1.24-RELEASE.jar [password_file]
+Java 8 or later is recommended to run Notes-password-Manager. 
 
 How to compile
 --------------
